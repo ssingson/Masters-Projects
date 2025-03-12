@@ -4,7 +4,7 @@
 This project investigates a classification approach to determine whether a breast tumor is benign or malignant based on features extracted from tumor cell nuclei. The study leverages several key techniques including data normalization, Principal Component Analysis (PCA) for feature selection, and a Support Vector Machine (SVM) model optimized through gradient descent and hyperparameter tuning. Out of 240 model variations tested, the final model—using a polynomial PCA kernel with 4 components, an RBF SVM kernel, and a linear slack variable—achieved an accuracy rate of 91% on the test dataset.
 
 ## Dataset
-The data is sourced from Kaggle’s Breast Cancer Dataset.
+The data is sourced from Kaggle’s [Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset).
 
 Download the dataset from Kaggle and update the file path in your project accordingly:
 
