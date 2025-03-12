@@ -42,4 +42,4 @@ This project is a data mining analysis for predicting stroke occurrences based o
 - Charts and comparison results between **training and test data** are included.
 
 ## Acknowledgments
-This project was completed as part of a **graduate-level course final project** for a **Master's program at Fordham University**.
+This project was completed by Seth Singson-Robbins as part of a **graduate-level course final project** for a **Master's program at Fordham University**. For further details or inquiries, you can reach out at [seth.singson@gmail.com](seth.singson@gmail.com).
