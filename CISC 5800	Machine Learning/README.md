@@ -55,4 +55,5 @@ pd.read_csv('path/to/your/breast-cancer-dataset.csv')
 - Additional insights from the experiments include the impact of support vector percentage on model performance and the influence of slack variables on overfitting.
 
 ## Acknowledgments
-This project was conducted by **Seth Singson-Robbins** at **Fordham University**. For further details or inquiries, you can reach out at **seth.singson@gmail.com**.
+This project was developed by **Seth Singson-Robbins** at **Fordham University**.  
+For further details, contact [seth.singson@gmail.com](mailto:seth.singson@gmail.com).
