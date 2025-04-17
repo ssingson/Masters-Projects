@@ -8,8 +8,14 @@ This project investigates a classification approach to determine the appropriate
 - Dataset summary:
   - Contains 216,930 Jeopardy! questions from 1984 to 2012
   - Includes metadata such as category, air date, round, and value
-  - JSON format and preprocessed to normalize values, filter out daily doubles, and remove stopwords
+  - Converted to JSON and preprocessed to normalize values, filter out daily doubles, and remove stopwords (not included due to github constraints)
 
+## Files 
+- Data Modeling
+   - Includes X training and test data, and various embedding models in pickle form to push into the code.
+- NLP Models
+  - NLP Models after both embedding and machine learning models are implemented.
+    
 ## Requirements
 - The only requirement is **Jupyter Notebook**.
 - No additional dependencies need to be installed beyond standard libraries available in Python.
